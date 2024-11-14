@@ -1,0 +1,1 @@
+System.Console.Write("(f=_=>console.log(`System.Console.Write(${String.fromCharCode(34)}(f=${f})()${String.fromCharCode(34)});`))()");
